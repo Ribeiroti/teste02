@@ -9,7 +9,7 @@
 <body>
 <div>
 	<h1>Cadastros de Devs</h1>
-	<p>Complete suas informações</p>
+	<p>Complete suas informações</p>   
 	<br>
 
 </div>
@@ -30,6 +30,6 @@
 			<input type="email" name="email" id="email">
 		</div>
 	</fieldset>
-</form>
-</body>
+</form> 
+</body> 
 </html>
